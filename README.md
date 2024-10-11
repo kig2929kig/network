@@ -4,7 +4,9 @@
   + 논술형 예시 첨부 : 2024년 2학기 네트워크 구축 논술형.hwpx
   + 수행평가 1 (9월 2주)
   +  수행평가 1 첨부 : ex1.pka
-    
+  + 수행평가 2 (10월 2주)
+  +  수평가 1 첨부 : 네트워크 구축(수행평가2).pka
+      
 패킷트레이서
 https://ndisk2.youngjin.com/cd/packettracer/PacketTracer533_setup.zip
 
